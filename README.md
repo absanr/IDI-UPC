@@ -15,7 +15,7 @@ En esta sección, encontrarás capturas de pantalla que ilustran la interfaz y f
 
 ## 💡 Contexto del Proyecto
 
-Este proyecto fue desarrollado en mi tiempo libre y refleja mi interés por la investigación y el desarrollo web. Acepté trabajar en **IDI-UPC** porque creo en la importancia de compartir conocimientos y contribuir a la educación y el desarrollo de nuestra comunidad.
+Este proyecto fue desarrollado en mi tiempo libre y refleja mi interés por la investigación y el desarrollo web. Acepté colaborar en **IDI-UPC** porque creo en la importancia de compartir conocimientos y contribuir a la educación y el desarrollo de nuestra comunidad.
 
 ## 📫 Contribuciones
 
